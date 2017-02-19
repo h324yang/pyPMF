@@ -1,8 +1,8 @@
 pyPMF
 =====
-- Implementing of probabilistic matrix factorization via python.
-- This version fits in movielens data format.
-- Note by default the model will save itself as pickle file every epoch and print training RMSE every 50 iteration.
+- Implementation of probabilistic matrix factorization via python.
+- This version fits in MovieLens data format.
+- Note the model will save itself as pickle file every epoch and print training RMSE every 50 iteration.
 
 
 
